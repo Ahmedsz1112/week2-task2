@@ -58,7 +58,7 @@ body {
     font-weight: bold;
     transition: all .3s;
     cursor: pointer;
-    opacity: .7;
+    opacity: .8;
 }
 
 .button:active {
