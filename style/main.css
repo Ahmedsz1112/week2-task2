@@ -60,6 +60,10 @@ body {
     cursor: pointer;
     opacity: .7;
 }
+
+.button:active {
+    scale: 0.7;
+}
 .button:hover {
     border-radius: 20px;
     opacity: 1;
